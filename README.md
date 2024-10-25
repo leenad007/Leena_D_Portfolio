@@ -12,7 +12,8 @@
 - **Database**: SQL, Azure
 - **Visualization**: Tableau, PowerBI, RShiny
 - **Software**: Jira, GitHub, Advanced Excel, Confluence, Kanban
-- **Certifications**:
+  
+## **Certifications**:
   1. Certified Scrum Master
   2. Tableau Data Visualizations
   4. Introduction to Analytics
