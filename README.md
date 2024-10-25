@@ -9,9 +9,9 @@
 ## 🛠️ Tools
 
 - **Language**: Python, SQL
-- **Database**: MySQL, Azure
+- **Database**: SQL, Azure
 - **Visualization**: Tableau, PowerBI, RShiny
-- **Software**: Jira, GitHub, Advanced Excel 
+- **Software**: Jira, GitHub, Advanced Excel, Confluence, Kanban
 - **Certifications**:
   1. Certified Scrum Master
   2. Tableau Data Visualizations
