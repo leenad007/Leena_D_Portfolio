@@ -2,9 +2,13 @@
 
 ## About Me
 
-- **Current Role**: Data Application Processor at Northeastern 
-- **Location**: Boston, Massachusetts, USA
-- **Interests**: Data Visualization, Machine learning, Process optimization, Business analytics, learning and innovation
+I am a Data Analyst Professional with 7 years of experience, passionate about leveraging data to solve real-world problems. I hold a Master’s in Data Analytics from Northeastern University. Currently, I am a Application Processor at the Northeastern.
+I am actively looking for opportunities in:
+Machine Learning Engineer
+Data Scientist
+Data Science Specialist
+Data Analyst
+Data Engineer
 
 ## 🛠️ Tools
 
