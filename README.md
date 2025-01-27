@@ -8,14 +8,17 @@
 
 ## 🛠️ Tools
 
-- **Language**: Python, SQL
-- **Database**: SQL, Azure
+- **Programming Language**: Python, SQL, R
+- **Cloud Platforms**: Azure, AWS
+- **Machine Learning and Deep Learning**: Regression, Classification, Pytorch, CNN, LSTM
+- **MLOps and Deployment**: Flask, FastAPI, Docker, Azure App Services, AzureML, MLflow
 - **Visualization**: Tableau, PowerBI, RShiny
 - **Software**: Jira, GitHub, Advanced Excel, Confluence, Kanban
   
 ## **Certifications**:
-  1. Certified Scrum Master
-  2. Tableau Data Visualizations
+  1. Microsoft Certified-Azure AI Fundamentals
+  2. Certified Scrum Master
+  3. Tableau Data Visualizations
   4. Introduction to Analytics
   5. Data Visualizations and Story Telling
   6. End-to-End Machine Learning
