@@ -27,7 +27,7 @@ Data Science Professional | 7+ Years of Experience<br>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 </a>
-![download](https://github.com/user-attachments/assets/a93db870-7922-458f-a3b2-ab35cc1a3946)
+<img src="![download](https://github.com/user-attachments/assets/a93db870-7922-458f-a3b2-ab35cc1a3946)"/>
 </a>
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> 
