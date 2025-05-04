@@ -15,7 +15,7 @@ Data Science Professional | 7+ Years of Experience<br>
 
 - 📧 Email: **doultani.l@northeastern.edu**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/leena-doultani/)  
-- 💻 [GitHub](https://github.com/leenadoultani)
+- 💻 [GitHub](https://github.com/leenad007)
 
 ---
 
@@ -27,11 +27,16 @@ Data Science Professional | 7+ Years of Experience<br>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 </a>
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-  <img src="![download](https://github.com/user-attachments/assets/b71ae15c-8811-4826-98d5-533285d280a4)" alt="tableau" width="40" height="40"/> 
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/ru/0/06/Tableau_logo.svg" alt="tableau" width="40" height="40"/>
 </a>
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> 
+
+<a href="https://www.powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> 
+</a>
+
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+  <img src="https://matplotlib.org/stable/_static/logo2.svg" alt="matplotlib" width="40" height="40"/>
 </a>
 <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="40" height="40"/> 
@@ -48,9 +53,6 @@ Data Science Professional | 7+ Years of Experience<br>
 <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> 
 </a>
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://matplotlib.org/stable/_images/sphx_glr_logos_mpl_001.png" alt="matplotlib" width="40" height="40"/> 
-</a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
 </a>
@@ -58,16 +60,13 @@ Data Science Professional | 7+ Years of Experience<br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
 </a>
 <a href="https://spacy.io/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Spacy_logo.svg" alt="spacy" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" width="40" height="40"/> 
 </a>
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/jira/jira-icon.svg" alt="jira" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Jira_Logo.svg" width="40" height="40"/> 
 </a>
 <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/atlassian_confluence/atlassian_confluence-icon.svg" alt="confluence" width="40" height="40"/> 
-</a>
-<a href="https://www.kanbanize.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Kanbanize_logo.svg" alt="kanban" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Atlassian_Confluence_2017_logo.svg" alt="confluence" width="40" height="40"/> 
 </a>
 <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
@@ -88,7 +87,7 @@ Data Science Professional | 7+ Years of Experience<br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
 </a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Microsoft_Excel_Logo_2021.svg" alt="excel" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="40" height="40"/> 
 </a>
 
 </p>
