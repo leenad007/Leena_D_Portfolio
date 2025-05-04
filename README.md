@@ -63,7 +63,7 @@ Data Science Professional | 7+ Years of Experience<br>
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leenadoultani&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=leenad007&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=leenadoultani&theme=dracula&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
