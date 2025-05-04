@@ -28,7 +28,7 @@ Data Science Professional | 7+ Years of Experience<br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="SQL" width="50" height="50"/>
   
   <!-- Machine Learning & AI -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Scikit-learn_logo_small.svg" alt="Scikit-Learn" width="50" height="50"/>
+  <img src="![download](https://github.com/user-attachments/assets/9abf835e-a1e7-402a-a97c-e208c2b4fcff)"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/PyTorch_logo.png" alt="PyTorch" width="50" height="50"/>
   
   <!-- Big Data & Cloud -->
